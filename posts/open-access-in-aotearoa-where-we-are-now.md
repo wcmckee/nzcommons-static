@@ -1,0 +1,119 @@
+<html><body><h4>Matt McGregor interviews Fabiana Kubke</h4>
+
+<em><span style="font-weight: 400;">Where do you think Open Access is in Aotearoa? How far have we come?</span></em>
+
+
+
+<span style="font-weight: 400;">“We've actually come a long way. If I look where we were when Creative Commons Aotearoa first joined the Royal Society, people in the research office had not heard of Open Access. It was seen as a radical idea then. We've come from not knowing what it was, to four NZ universities actually institutionalising positions on Open Access. We have Open Access weeks every year now.</span>
+
+
+
+<span style="font-weight: 400;">“So, you have to celebrate the progress of New Zealand. But if you step outside of New Zealand, we're really behind. The main concern for me is that we lack a commitment from research funders to put conditions on grants requiring researchers to share. This isn't just public funders – even private funders need to be moving in this direction. If you look overseas, funders like the National Institute for Health (NIH) have had mandates for years. Even private organisations like the Bill Gates Foundation now have these sorts of mandates.</span>
+
+
+
+<span style="font-weight: 400;">“When the NIH decided to have the OA mandate, they also put in place PubMedCentral. They provided the repository. Only now are the universities really exploiting the possibilities of the institutional repositories that libraries offer. It's very difficult to say that you need to publish Open Access when you do not give authors the option of going the green OA route. Some of the more prestigious journals do have Article Processing Charges – most don't, but many do. So it's understandable that the repositories are a big part of the solution. Without those repositories, it's hard to implement OA.</span>
+
+
+
+<span style="font-weight: 400;">“In that sense, I think we are lagging behind. The one place where we are doing better is with open government data. New Zealand is operating in a slightly different order to the rest of the world, because they managed to get the government data mandate put in place quite well. I would like to see the same requirements pushed to funding research.</span>
+
+
+
+<span style="font-weight: 400;">“It shouldn't be that hard. We just need these organisations to say, 'if you want my money, here are the conditions'. Are researchers going to turn down that money? The funders are the ones that have the power. I think there is enough awareness that the fears that have held funders back are less than they were when the open access conversation started.”</span>
+
+
+
+<em><span style="font-weight: 400;">We have four Open Access commitments from universities. They are not as strong as they could be, but they are a start. But there haven't been any strong open data mandates. What's the future of open research data?</span></em>
+
+
+
+<span style="font-weight: 400;">“With research data, you run into a slightly bigger problem. Universities have not figured out exactly what a good data management plan looks like, let alone the structure and resources we need to put behind the implementation of a good data management plan. So you can say, 'make your data available' – and there are solutions, like Figshare – but the institutions and the funders would like to see some wider national links, so they can be sure of the implementation of open data mandates. Australia has this, with ANDS. We don't have that in New Zealand.</span>
+
+
+
+<span style="font-weight: 400;">“So it isn't surprising that a mandate on data isn't something that we've had a mature conversation about so far. We haven't seen as many international examples of open research data mandates.</span>
+
+
+
+<span style="font-weight: 400;">“However, we are seeing many reputable journals like PeerJ requiring data sharing. As more journals require this, the requirement for better data management will come. It's very difficult to ask someone to share their data when it wasn't produced in such a way that makes it ready to publish. Open data requires a lot of behavioural change in the way we do science. We need to keep pushing for open data, though be aware that it will take some time.”</span>
+
+
+
+<em><span style="font-weight: 400;">We need more examples of researchers like yourself successfully releasing their data.</span></em>
+
+
+
+<span style="font-weight: 400;">“I spend a lot of time on my data. I want to know that I'm not wasting my time. If I'm losing or destroying my data, and not releasing it for reuse, then from an institutional perspective, I have to ask: why are you hiring me? You wouldn't go to any other sector and say, let's get rid of all the work that was done five years ago. This work is part of our heritage, our historical record.</span>
+
+
+
+<span style="font-weight: 400;">“A lot of the projects that I have are based on work that was done 20 years ago. Back then, there wasn't the technology to explore those questions further. I need access to that 20-year-old data. It's very hard to predict where data might end up having an impact. Destroying the data is a way of saying: my work is meant to have no impact. And then you think, how much money was spent on that project, how many people worked on it? And then you weigh those costs against the cost of storing the data.</span>
+
+
+
+<span style="font-weight: 400;">“We were talking to Cable Green today, the Global Manager for Education at Creative Commons, and he said that all public grants should have a 10% allocation for implementation. We should have that in the research sector. Not for implementation, but for preservation. If you're not willing to give up 10% to preserve the work you do produce, then what you're saying is, I want your money for something that is not actually worth researching. If it's not worth preserving, then it's not worth doing.”</span>
+
+
+
+<em><span style="font-weight: 400;">You'd think that this argument would be one that researchers would have difficulty disagreeing with.</span></em>
+
+
+
+<span style="font-weight: 400;">“There are other incentives. To get and keep a job, you need to play a certain game within the research system, and with the people you are assessing your performance. This is why you need to have the discussion with the university and with the funders. The government, too, has enormous power to say to the research community: here is what New Zealand values in research.</span>
+
+
+
+<span style="font-weight: 400;">“One of the problems here is that most of the decision-makers come from the non-digital age, like me. To them, the potential of the internet is not as obvious as it is to younger researchers. We don't necessarily understand what the internet offers.”</span>
+
+
+
+<em><span style="font-weight: 400;">There's been a lot of activity over the years across New Zealand by a community of various advocates – from workshops and events to the passage of institutional policies. What's the most effective way forward for this community of people in support of OA, given that these people are often not in a position to push through change in their institution?</span></em>
+
+
+
+<span style="font-weight: 400;">“This is a good question: Is there a limit to who you can reach? When I talk to colleagues in the United States, they all deposit in PubMedCentral. They consider it so fundamental a part of the process, that it's no longer something that they have to think about. Our conversations are about values, and not conversations about everyday work. In New Zealand, we've often made the argument that this is the right thing to do. Its publicly funded, and the public should have access.</span>
+
+
+
+<span style="font-weight: 400;">“Well, a lot of people don't agree with that. For some of us, this is an ethical position that we take, based on one ethical model. But perhaps for other people, with different values, we need to frame the issue in a different way. What is it that they care about, and how can OA help solve their problems? Maybe we need to change the conversation to match the motivations of those who do not buy in.</span>
+
+
+
+<span style="font-weight: 400;">“The grassroots movement supports the democratisation of knowledge. But that movement will have a limit. The question is: where's the value proposition that will get the others on board. The grassroots should continue to do as much as we can. But we should think about other ways to frame the issue.”</span>
+
+
+
+<em><span style="font-weight: 400;">A lot of researchers also don't have a strong position either way. Is it that they just want this problem to solved for them at a government, funder or institutional level?</span></em>
+
+
+
+<span style="font-weight: 400;">“A lot of academics don't see access as a problem. They can get access to anything they want to read, because of their institution. And from the point of view of some academics, the people who need to read their research already have access.</span>
+
+
+
+<span style="font-weight: 400;">“The question is not access, then, but how broad the access should be. For me, it should be universal. But others do not feel that you would be able to read and interpret their articles in any knowledgeable way, and therefore you should be fine with a press release. The argument is essentially this: you can't understand my article, therefore you should not have access to my article, therefore you will never understand my article. Stay ignorant.</span>
+
+
+
+<span style="font-weight: 400;">“I like to think we can build a better society where we say: society pays me via the university and research grants. The person on the street is paying my salary. I like to think you have a right to ask me to explain why I'm doing this research, and why this money should be given to me. I should be held accountable. Maybe if we had more Open Access papers that were better written, we could even use them in secondary schools. Maybe this can lead to greater collaboration with teaching in schools. There is a potential for collaboration that is not exploited.</span>
+
+
+
+<span style="font-weight: 400;">“With the internet, too, young people will find information. It's up to researchers to decide whether that information is correct or not. I shouldn't spend my time writing blog posts. In my ideal world, there are no scientist bloggers, because there's no need for them.”</span>
+
+
+
+<em><span style="font-weight: 400;">What about their students? They are training all these students, often to a postgraduate level, who will not have access to research when they graduate. There are more former students, with decent literacy and expertise in their discipline, than there are academics and researchers with library subscriptions by a factor of a thousand.</span></em>
+
+
+
+<span style="font-weight: 400;">“But what they say then is: just email me, and I'll give it to you. They consider their audience small enough to be managed by email. It's not understanding how big their audience is – and also how serendipitous discovery is. So, yes: my article might not be read by anyone. But if everyone publishes openly, then the probability of finding something useful increases exponentially. You never get more readership by diminishing distribution.”</span>
+
+
+
+To find out more about Open Access in Aotearoa, including case studies from around the country, <a href="https://www.pledgeme.co.nz/projects/4119-creative-commons-aotearoa-print-book" target="_blank">pledge to help Creative Commons Aotearoa publish</a> a small print run of our upcoming book <i>A Quiet Revolution: Growing Creative Commons in Aotearoa</i>.
+
+
+
+<em>Fabiana is a Senior Lecturer in the School of Medical Sciences at the University of Auckland. A leader in the Open Access movement, Fabiana writes about open science at her blog, <a href="http://sciblogs.co.nz/building-blogs-of-science/">Building Blogs of Science</a>, part of the<a href="http://sciblogs.co.nz/bloggers/"> Science Media Centre’s SciBlogs network</a>. She also blogs for the<a href="http://blogs.plos.org/mindthebrain/">Public Library of Science</a>.</em></body></html>

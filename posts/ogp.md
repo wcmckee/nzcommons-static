@@ -1,0 +1,75 @@
+<html><body><h4>BY NATHAN PARKER</h4>
+
+<a href="/wp-content/uploads/2014/11/SummitLogo1.png"><img class="wp-image-402" src="/wp-content/uploads/2014/11/SummitLogo1-1024x328.png" alt="SummitLogo1" width="605" height="194"></a> Image by Open Government Partnership. CC-BY.
+
+
+
+As a teacher interested in open education I became quietly optimistic over<a href="%20%20http://www.ssc.govt.nz/open-government-partnership" target="_blank"> the New Zealand government's acceptance</a> of an invitation to join the <a href="http://www.opengovpartnership.org/" target="_blank">Open Government Partnership</a>. The OGP is a forum of countries working to ensure that member governments are more open, accountable and responsive to its citizens. As part of their membership, the government is required to demonstrate how it will implement transparency, accountability, technology and innovation and civil society participation in government. They are also required to prepare an Action Plan of commitments aimed at working towards these OGP objectives.
+
+
+
+As part of the OGP <a href="http://www.opengovpartnership.org/country/united-kingdom/commitment/social-investment" target="_blank">the UK Prime Minister David Cameron promoted open government</a>, pledging to make the UK government the most open and transparent in the world and describing open data as the new raw material of the 21st century, holding governments to account, driving choice and improving public services. He also said it inspires innovation and enterprise that spurs social and economic growth. The UK government even committed that by 2015, it will be the most transparent social investment market in the Open Government Partnership and in line with the <a href="https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/207772/Open_Data_Charter.pdf" target="_blank">Open Data Charter</a> principles.
+
+
+
+The Open Data Charter (ODC) recognizes the central role open data can play in improving government and governance and in stimulating growth through innovation in data-driven products and services. Open data is freely available to everyone to use and republish as they wish, without restrictions from copyright, patents or other mechanisms of control. ODC states that data should be Open by Default. The UK government's response has seen it planning to move <a href="%20http://www.theguardian.com/technology/2014/jan/29/uk-government-plans-switch-to-open-source-from-microsoft-office-suite" target="_blank">to using open source software and to standardise on open formats</a>. The policy would break the oligopoly of software suppliers and save the UK ongoing software licences.
+
+
+
+As part of the OGP it is a requirement for governments to engage in open consultation with stakeholders, seeking input on mandated standards for software interoperability, data and document formats. Standards also for creating, viewing, sharing and using documents and that all government departments must comply with.
+
+
+
+The OGP forum would allow the New Zealand government a legitimate reason to break away from its present procurement practices that have led to proprietary lock-in, limited interoperability, and excessive costs. This has the potential to make government ICT more open, cheaper and better connected and would have avoided the Novopay débâcle.
+
+
+
+It would require government documentation and resources be in file formats and licensing that makes them accessible to all, shareable and reusable. Policies would still recognise national and international legislation pertaining to intellectual property, personally-identifiable and sensitive information. Everything else would be open.
+
+
+
+The New Zealand government's own ICT strategy action plan has similar guiding principles of sharing by default, openness and transparency.
+
+
+
+My optimism increased to enthusiasm when I thought the New Zealand government might follow a model similar to the UK. It has the potential for saving the government millions of dollars every year but more importantly - access to data, as images, publications and research (our nation's data heritage opened!).
+
+
+
+I envisaged the Ministry of Education mandated by government policy, transitioning from closed proprietary software to open source software equivalents that could be improved and adapted for NZ. Learning institutions and students accessing the same software, regardless of family income or willingness to become pirates! All student work would be stored in formats that they owned rather than that of a software provider - digital portfolios managed to allow student content to be accessible into the future and without having to buy software to read it.
+
+
+
+There is such huge potential with opened data, but I really got excited at an idea to use the dust gathering 1980's BSM programme (Bloody Silly Maths). This stunning Kiwiana and Pacifica influenced resource could be remixed under creative commons licenses - Kiwi ingenuity unleashed and backed by independent research fully funded by the MOE (presently a user-pays system for government research information). We could have a future proofed, digitally dusted programme of BSM (Bloody Sonic Maths).
+
+
+
+I then began to dream of other iconic resources being opened up; students and teachers allowed to legally re-use images of Dame Whina on her 1975 land march hikoi or school journal articles on Sir Edmund, driving a Hamilton jet boat up the Ganges - all available for remixing for a modern audience.
+
+
+
+In my excitement about New Zealand joining the OGP, I made an OIA request for a copy of the government's OGP draft action plan. I also asked for a list of submitters and stakeholders to the plan and the selection criteria for these stakeholders
+
+
+
+The reply was a refusal from a closed government who used their right to withhold information!
+
+
+
+So as an open educator, dropped is my dream of accountability and openness, gone is choice and improvements in public services; and as for inspiring innovation and enterprise that spurs social and economic growth – I would suggest moving to Waitati!
+
+<h4>Additional Links</h4>
+
+https://ict.govt.nz/guidance-and-resources/open-government/declaration-open-and-transparent-government/2014-report-on-adoption-of-the-declaration/
+
+http://data.gc.ca/eng/g8-open-data-charter-canadas-action-plan
+
+http://opensource.com/government/14/2/uk-government-open-standards
+
+http://opensource.com/government/13/7/open-data-charter-g8
+
+http://www.nzcer.org.nz/nzcerpress/set/articles/placing-and-pacing-beginning-school-mathematics
+
+
+
+<em>Nathan Parker is an educator with a particular interest in envirethical issues and Open Source software</em></body></html>

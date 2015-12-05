@@ -1,0 +1,71 @@
+<html><body><h4><strong>BY MATT MCGREGOR</strong></h4>
+
+In July 2013, Lincoln University passed <a href="http://library.lincoln.ac.nz/About/Policies/Open-Access-Policy/" target="_blank">a wide-ranging Open Access policy</a>, becoming the first New Zealand university to do so. Coverage includes research outputs including data, teaching materials and the University’s business records.
+
+
+
+The policy states that “as an organisation Lincoln University has a policy position which endorses making content openly and freely available as the first and preferred option.” It goes on to state that "Lincoln University takes a broad ethical position which asserts that if public funding has supported the creation of an idea, research or other content then it is reasonable and fair that it be made publicly accessible.”
+
+
+
+The policy also encourages copyright owners “to apply a Creative Commons Licence to their intellectual output to determine how material may be used, reused or repurposed.”
+
+
+
+<a href="http://www.lincoln.ac.nz/staff-profile?staffId=Penny.Carnaby" target="_blank">Penny Carnaby, the University Librarian at Lincoln</a>, had been aware of the benefits of open access and open licensing since her time as National Librarian at the National Library of New Zealand (NLNZ), where she participated in the Chief Executives’ steering group on open data and information during the development of <a href="https://ict.govt.nz/guidance-and-resources/open-government/new-zealand-government-open-access-and-licensing-nzgoal-framework/" target="_blank">NZGOAL</a>.
+
+
+
+Approved by Cabinet in 2010, NZGOAL -- the New Zealand Government’s Open Access and Licensing framework -- supports and advocates for the uptake of Creative Commons licensing for copyright works produced or funded by State Services agencies.
+
+
+
+From her experience at NLNZ, Penny became particularly interested in opening up copyright works produced by the university sector -- including journal articles, datasets and educational resources. She also noted the growing importance of <a href="http://nzcommons.org.nz/project/institutional-repositories-101/" target="_blank">Institutional Repositories</a> in research libraries around the world as a way of ensuring much greater public access to the intellectual output of an academic institution. Penny had been at National Library when the network of IRs was established, along with the NLNZ managed <a href="http://www.nzresearch.org.nz/" target="_blank">NZResearch</a>, which uses a DigitalNZ powered harvester to gather information from research deposited in repositories across the New Zealand research sector and make them easier to find.
+
+
+
+Noting the strength of <a href="www.researcharchive@lincoln.ac.nz." target="_blank">Lincoln’s Institutional Repository, LURA,</a> Penny began to investigate what it would take to develop an open access policy at Lincoln -- New Zealand’s first -- in line with other universities around the world. The policy was given strong support from the Vice Chancellor, Dr Andrew West, who nominated open access as a business driver for the university in 2013.
+
+
+
+<iframe src="//www.youtube.com/embed/t0-MfI4ma-U?rel=0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+
+
+
+This strong institutional support enabled a process of consultation across the university, which gave university staff an opportunity to voice concerns before the policy was approved. The university also developed a joint union and management working party, which spent six months working through issues and developing a final policy that the university community could be comfortable with.
+
+
+
+Penny notes that research staff were, generally speaking, comfortable with the principle of open scholarship, as they could see the inherent benefits of OA to disseminating their research to a broader audience.
+
+
+
+The same was not true of open educational resources, which was a relatively novel concept to most teaching staff. “Academics are generally dual professionals,” Penny points out. “Each profession -- teaching and research -- has different drivers. Researchers are often fundamentally motivated by the desire to see their published works have a broad public impact. We found that the same is not necessarily true of academic teaching resources.
+
+
+
+“In the end, we developed an elegant and respectful solution: the copyright to educational resources would remain with the creator, while the university would retain the right to use these resources for the educational purposes of the institution -- such as using them as open educational resources in MOOCs.”
+
+
+
+Penny notes that this process of discussion and consultation was both the most important and most difficult part of implementing open access across the university.
+
+
+
+In order to support the implementation process, <a href="http://library.lincoln.ac.nz/About/News/Current-news/Te-Wiki--Open-Access-Week-events/" target="_blank">Lincoln held its Open Access Week in July</a>, holding several public events, including a talk by Dr Mark Hahnel, CEO of <a href="http://figshare.com/" target="_blank">Figshare</a>, and a debate on Open Access, with the moot 'Open Access or Open Slather?' Penny was placed on the 'Open Slather' team, and <a title="Researcher’s Lament" href="http://nzcommons.org.nz/pennys-poem/" target="_blank">presented this poem as part of her argument</a>).
+
+
+
+These events helped expose awareness gaps in the institution, which a university wide implementation group is helping to address.
+
+
+
+Penny advises other other institutions developing an OA policy to “make the policy itself as broad as possible -- including not only research articles but educational resources and even public records. Institutions will also need to develop the policies alongside other, existing policy settings, such as data management and intellectual property.”
+
+
+
+“And then think very carefully about implementation. Implementation is everything.” At Lincoln, this process of implementing the policy has led to -- at last count -- eighty-seven discrete activities across the university.
+
+
+
+“Open Access changes every conversation you have,” says Penny. “Rather than arguing why works need to be open, the focus at Lincoln University is on why certain works need to be closed. This requires a massive cultural shift to take place.”</body></html>

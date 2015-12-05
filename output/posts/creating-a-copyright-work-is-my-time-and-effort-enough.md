@@ -1,0 +1,81 @@
+<html><body><h4><strong>BY THOMAS HUTHWAITE</strong></h4>
+
+Copyright is one of the more flexible forms of intellectual property. It can be used to protect almost any form of expression, whether literary, dramatic, musical, artistic, industrial, sound recording, film, communication work, or typographical arrangement.1
+
+
+
+But from what point does an original copyright work exist? For example, the creation of a single word does not attract copyright protection. That single word does not hold enough creative effort or “originality” to be considered an original literary work.
+
+
+
+Similarly, copying someone else’s existing work, even if showing that work in a new way, is not likely to give rise to an original work.2 A work cannot be original if it is a copy of, or an infringement of, an existing work.3 It must be independently created.
+
+
+
+However, an original work may be created by expending sufficient skill, judgement or labour, even if that work incorporates publicly available information. This may occur, for example, where a person creates a new compilation of available information, such a new recipe or a new directory. In these examples, which require the author’s skill, judgement or labour, the level of creativity or ingenuity required for “originality” may be relatively low.4
+
+
+
+So, if a work is not particularly creative, then how much skill, judgement or labour is required before it becomes an “original” copyright work?
+
+<h4><strong>A Case Study: The Dead Sea Scrolls</strong></h4>
+
+The Dead Sea Scrolls are ancient religious manuscripts dating back to 200 BC. Part of the Scrolls is the Miqsat Ma'ase Ha-Torah (“MMT”), a particularly sought after Hebrew document that has only been discovered in fragments.5
+
+
+
+From 1954, professors Elisha Qimron and John Strugnell identified, transcribed, and reconstructed countless fragments from six different manuscripts containing the MMT. The professors arranged the manuscript fragments in a way they believed would most accurately represent the original MMT text. That process took 11 years and, even then, more than half the MMT was missing. The professors then filled in, or interpolated, the gaps based on their extensive knowledge and research.
+
+
+
+The resulting ‘Qimron’ version of MMT was finally officially published in 1994. However in 1992 (before the official publication), a member of the Biblical Archaeology Society published a large part of the Qimron MMT, without the professor’s permission. He did this in order to make the MMT available to other scholars, fearing that access to it would otherwise be heavily restricted.
+
+
+
+Qimron sued the Biblical Archaeology Society for copyright infringement, saying that his version of the MMT was unique, and an original copyright work. (Keep in mind that, at the same time, the professors claimed to have formed the most accurate complete version of the original MMT.) So, could the professors claim copyright in the fruits of their labour as “original” literary works?
+
+
+
+The Israeli Supreme Court held that, yes, the work was an original literary work that attracted copyright protection. The professors’ work on the MMT was not purely technical or mechanical labour yielding a predetermined or known result. Instead, the “additional soul” that the professors inspired in the fragments of the Scrolls, with their labour, made them the owners of the copyright in the Qimron MMT text.
+
+<h4><strong>A Factual Enquiry</strong></h4>
+
+The Qimron case is a particularly fact-specific one, but so are most copyright cases. All of the facts must be considered, including:6
+
+<ul>
+
+	<li>The “starting point” of the work;</li>
+
+	<li>The whole of the completed work;</li>
+
+	<li>The extent of the copying and alteration (whether a substantial part of the original work survived, so as to appear to be a copy of the original work);</li>
+
+	<li>The quality of the work, rather than the quantity of what has been taken;</li>
+
+	<li>Whether mere literal or mechanical copying has taken place;</li>
+
+	<li>Whether advantage has been taken of the original work.</li>
+
+</ul>
+
+After performing this enquiry, one should be left with a reasonable overall impression of whether the new work is in fact an “original” work, regardless of whether it was formed from a spark of creativity, or from the author’s blood, sweat, and tears.
+
+<h4>Notes</h4>
+
+<ol>
+
+	<li>Section 14 of the Copyright Act 1994.</li>
+
+	<li>Elanco Products Ltd v Mandops (agrochemical Specialists) Ltd [1980] RPC 213 (CA).</li>
+
+	<li>Section 14(2) of the Copyright Act 1994. See also: University of London Press v University Tutorial Press Ltd [1916] 2 Ch 601 (EWHCCh) at 608 – 609</li>
+
+	<li>University of Waikato v Benchmarking Services (2004) 8 NZBLC 101, 561 (CA).</li>
+
+	<li>Eisenman &amp; Ors v Qimron (2000) C.A. 2790/93, 2811/93.</li>
+
+	<li>Steelbro NZ Ltd v Tidd Ross Ltd [2007] NZCA 486 at [109] per Wilson J.</li>
+
+</ol>
+
+<em>Thomas Huthwaite is an Associate at <a href="http://www.baldwins.com/thomas-huthwaite/" target="_blank">Baldwins Intellectual Property</a>, an intellectual property patent attorney firm. This article is intended to summarise potentially complicated legal issues, and is not intended to be a substitute for individual legal advice.</em></body></html>

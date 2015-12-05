@@ -1,0 +1,51 @@
+<html><body><h4><strong>BY RUPERT GATTI</strong></h4>
+
+<em>This month we are featuring a series of articles from authors around the world on the them of Open Access to Research. This article by Dr Rupert Gatti originally appeared in </em>The Guardian<em>.</em>
+
+
+
+While academia is in the midst of a general funding crisis, multinational publishing houses are making vast profits from disseminating publicly funded research. New Open Access publishing models provide cost-efficient methods for disseminating research findings, eradicate excess profits by publishers and massively widen the readership of scholarly works. The UK government recognises this but their current reform agenda is nowhere near bold enough.
+
+
+
+Academics as a rule do not write their books to make money — in fact, most receive only token royalties for their work. They do it to satisfy research assessments, to get hired and promoted and, most of all, to inform readers, spark debate, and contribute to the intellectual richness of their discipline. Commercial publishers reap high profits while putting up several barriers to the dissemination of research results. They do this in several ways: firstly, by imposing restrictions on copyright; secondly, by deciding which areas of research reach publication — a decision often based on marketing considerations that penalise cutting-edge and niche subjects. And thirdly, by imposing high prices on readers and libraries in order to maintain high profits and an obsolete infrastructure. Moreover, publishers increasingly bundle their numerous services into single large dissemination packages (so-called ‘Big Deals’), thus extracting large profits from libraries and universities while further restricting access to research by readers outside the academic community. The average price for an academic book is now around £50, with total sales running at around only 200 or 300 per title globally, predominantly to libraries in the US.
+
+
+
+We have reached a point where university libraries cannot afford to buy access to the research done by scholars in their own institutions, as journal costs are now too expensive even for the wealthiest universities.
+
+
+
+The <a title="Finch Report" href="http://www.researchinfonet.org/publish/finch/" target="_blank">report by Dame Janet Finch</a> and subsequent <a title="RCUK open access policy" href="http://www.rcuk.ac.uk/research/openaccess/" target="_blank">new policies announced by the UK Research Councils (RCUK)</a> fully support Open Access publication for all UK publicly funded research. While these are important steps in the right direction, the Finch recommendations and RCUK policies fall well short of pushing through the wholesale reforms required to make Open Access publishing the prime outlet for research results. The Finch/RCUK approach sustains the existing publishing landscape in journal publishing: the provision of Open Access articles would be paid for by the author instead of by the reader. Whilst this will certainly force publishers and researchers to make their work available to readers for free, it will be down to the existing publishers to set the price authors are required to pay. This would allow commercial publishers to maintain their exorbitant profit margins at the expense of the taxpayer and academic research budgets — albeit through a different payment channel (i.e. author charges rather than reader charges). It will also introduce a new series of publishing distortions. Researchers working at institutions with large budgets to pay for the dissemination of their staff's work will have access to the top journals. Internal rationing of available publishing funds may favour some researchers over others.
+
+
+
+And these distortions will be exacerbated even further when it comes to the publication of monographs, where publishing charges are likely to be even higher. In fact the Finch Report says very little of book publishing, concluding that “it is difficult to encompass monographs within the discussion about promoting wider access to publications”. Despite the progress with scientific journals, there are very few viable Open Access publishers in the Humanities and Social Sciences, especially when it comes to publishing entire books.
+
+
+
+Yet there is a simple solution available. It is time for members of the scholarly community to stop waiting for government legislation, funders or publishers to wholeheartedly embrace Open Access, and to recognise that commercial publishers are not required in the process of assessing quality or disseminating research findings -- in fact, that they can take matters into their own hands. Digital publishing has changed the way books are produced and distributed. Scholars are accessing information increasingly (or, in the case of most undergraduates, exclusively) online. We no longer need expensive printing and distribution networks: the Internet provides an instant, global and cheap publishing platform.
+
+
+
+<iframe src="//www.youtube.com/embed/v_i53uZ43Vw" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+
+
+
+<em>CC BY Dr Rupert Gatti</em>
+
+
+
+I have been part of a group of academics in Cambridge and London who were frustrated by the commercial publishers’ inability to adopt an Open Access model. We set out to discover whether Open Access could be a sustainable model for publication, and founded <a title="Open Book Publishers" href="http://www.openbookpublishers.com/" target="_blank">Open Book Publishers</a> in 2008. In a small team, and on a shoe-string budget, we publish high-quality, peer-reviewed, Open Access monographs in the Humanities and Social Sciences. We do this not by charging authors, but through a ‘freemium’ model: we make all of our monographs freely readable online, but, to cover our modest costs, charge a reasonable price for printed editions and certain digital formats. The model is incredibly fast and cost effective, and allows us to retain the quality and academic rigour of a traditional university press.
+
+
+
+Our model is now well-honed and successfully spreading knowledge around the world: our books are currently averaging around 500 views per month, which is more than most printed academic books see in an entire lifetime. They are accessed by people in over 180 countries (most academic books are only available in Western university libraries), with large numbers coming from the developing world.
+
+
+
+Of course ours is not the only way ahead for OA publishing in the humanities and social sciences, but by providing a sustainable model we are hoping that other academics and institutions will take note and feel emboldened to launch similar initiatives.  There's no reason why there shouldn't be a creditable Open Access book publisher in every university around the world, but it is going to require a collective shift in the academic mind-set. And an important part of this will be for academic institutions (appointment boards and libraries) to recognise the changing world of publishing and the active role they can play in it. And for funders to recognise that sustaining a publishing model which is obsolete and costly stifles industrial innovation. Our once beloved university presses used to perform a necessary and noble service, but they are no longer serving our needs. The future of our work’s dissemination is in our own hands — precisely where it should be. The question is whether we are prepared to hold on to it.
+
+
+
+<em>Dr. Rupert Gatti is a co-founder and the third Director of Open Book Publishers. He is a Fellow of Trinity College, Cambridge, where he is a Director of Studies in Economics. His published academic work includes microeconomic analysis of competition in online markets, game theory and search theory. He has held visiting positions at MIT and University of Florence, acted as an Economic Advisor on several EU competition studies, is on the advisory board of a range of Open Access initiatives and is a frequently invited speaker on the OA movement.</em></body></html>

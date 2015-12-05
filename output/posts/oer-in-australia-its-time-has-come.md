@@ -1,0 +1,169 @@
+<html><body><h4><strong>BY AUSTRALIAN NATIONAL COPYRIGHT UNIT
+
+</strong></h4>
+
+The term Open Educational Resources (OER) was coined at UNESCO’s 2002 Forum on Open Courseware. It means “teaching, learning and research materials in any medium, digital or otherwise, that reside in the public domain or have been released under an open licence that permits no-cost access, use, adaptation and redistribution by others with no or limited restrictions”.
+
+
+
+OER initiatives are emerging at an increasing rate throughout Australia, both at the government and institutional levels. Unlike NZ, where OER is being implemented organically at a school level with the assistance of Creative Commons Aotearoa New Zealand (CCANZ), OER in Australia is being implemented by governments and educational bodies as part of the Australian Government Open Licensing Programme, AusGOAL.
+
+
+
+The National Copyright Unit (NCU) is the new Education Lead of Creative Commons Australia, and for many years has been an active advocate of Creative Commons and the OER movement. NCU negotiates and manages the compulsory and voluntary copyright licences on behalf of the Australian School and Technical and Further Education (TAFE) sectors, and advocates for copyright law reform on behalf of the School and TAFE sectors. NCU also <a title="Smartcopying" href="http://www.smartcopying.edu.au/" target="_blank">provides copyright advice</a> and education to the School and TAFE sectors.
+
+
+
+In its role as Creative Commons Education Lead, NCU also runs an education programme on <a title="CC licences" href="http://www.smartcopying.edu.au/open-education/creative-commons" target="_blank">Creative Commons licences</a> and the<a title="OERs" href="http://www.smartcopying.edu.au/open-education/open-education-resources" target="_blank"> use and adoption of OERs</a> for the School and TAFE sectors.
+
+
+
+<b>Increasing recognition of value and benefits of OER</b>
+
+
+
+The Australian Government and education administering bodies now recognise that OER policies can impact and assist on a range of copyright compliance and education policy issues.
+
+
+
+OER will assist in managing costs, both copyright licensing costs and traditional learning material costs:
+
+<ul>
+
+	<li>OER can make an important contribution to the most pressing problem facing education systems around the world: delivering better results with fewer resources.</li>
+
+	<li>Free or inexpensive resources licensed under an open licence should be an option considered by teaching organisations.</li>
+
+	<li>Using OER will also reduce copyright licensing costs. Despite best efforts by the Copyright Advisory Group (CAG) and NCU, copying volumes continue to go up and exclusions are varying from year to year.</li>
+
+</ul>
+
+OER will deliver greater learning efficiency, especially in regards to digital ICT policies:
+
+<ul>
+
+	<li>Educators are able to easily use the work of others and build upon those as needed, as opposed to starting from scratch;</li>
+
+	<li>When educators leave a role, both the school and the educator are still entitled to use the resources the educator created;</li>
+
+	<li>OER allows greater collaboration between education department and authorities, domestically and internationally;</li>
+
+	<li>OER encourages the use of new digital technologies and allows collaboration between students, parents, teachers and schools; thus allowing schools to reach their State/Territory’s digital ICT policy goals.</li>
+
+</ul>
+
+OER helps manage copyright compliance:
+
+<ul>
+
+	<li>OER removes many of the roadblocks associated with traditional copyright and reduces copyright compliance issues and costs.</li>
+
+	<li>It promotes continuous improvement of instruction and personalised learning.</li>
+
+</ul>
+
+Recently all the Australian Departments of Education agreed to license their websites and publications under a Creative Commons Attribution licence (CC BY 4.0) where possible. <a title="Tasmania" href="https://www.education.tas.gov.au/About_us/Pages/Copyright-and-Disclaimer.aspx" target="_blank">Tasmania</a>, <a title="South Australia" href="http://www.sa.gov.au/copyright" target="_blank">South Australia</a> and <a title="Queensland" href="http://education.qld.gov.au/home/copyr.html" target="_blank">Queensland</a> Departments of Education have done so and the other states/territories are in the process of implementation. The non-government school sectors are beginning to license their learning resources under Creative Commons licences as well, to ensure wider sharing and building of knowledge.
+
+
+
+Other OER initiatives in Australia include <a title="Education Services Australia" href="http://www.esa.edu.au/" target="_blank">Education Services Australia</a> licensing more than 1,600 digital learning resources from the national digital resources collection under Creative Commons licences (with hopefully many more to come). These CC-licensed resources are available from <a title="Scootle" href="http://www.scootle.edu.au/ec/lobjects.htm" target="_blank">Scootle</a>. The <a title="Australian Curriculum" href="http://www.australiancurriculum.edu.au" target="_blank">Australian Curriculum</a> is also licensed under a Creative Commons Attribution-NonCommercial-ShareAlike (CC BY-NC-SA) licence in order to ensure that the curriculum is widely accessible to teachers and schools, and to facilitate the development of teaching and learning resources. NCU expects to see more and more publicly funded educational resources licensed under Creative Commons licences.
+
+
+
+<b>OER Toolkit for Schools Curriculum Developers</b>
+
+
+
+The NCU is developing an OER toolkit for School-sector E-learning and Curriculum Developers. The toolkit is a practical guide designed to support curriculum creators in understanding and making use of open educational materials, and ensuring future materials are able to be openly licensed. It provides detailed information on Creative Commons licences and how to use them. Importantly, we have developed a ‘best of’ OER list to assist people in finding high-quality OERs quickly. And, in the true spirit of the OER movement, NCU’s toolkit is built on the fantastic CC-licensed works of CCANZ’s publication “Free to Mix” , the Leiscester City Council “OER Guidance for Schools”, and the ‘<a title="OER copyright licensing toolkit" href="http://www.oerafrica.org/resource/oer-copyright-and-licensing-toolkit" target="_blank">OER Copyright and Licensing Toolkit’</a> by the <a title="SAIDE" href="http://www.saide.org.za/" target="_blank">South African Institute for Distance Education</a>.
+
+
+
+<strong>Copyright 4 Educators on Peer 2 Peer University</strong>
+
+
+
+The NCU is one of the foundational courses of P2PU School Open, and has run the <a title="Copyright 4 Educators" href="https://p2pu.org/en/courses/3040/copyright-4-educators-aus/" target="_blank">Copyright 4 Educators</a> course through <a title="P2PU" href="https://p2pu.org/en/" target="_blank">Peer 2 Peer University</a> (P2PU) since 2009. P2PU is a grassroots open education project that organises learning outside of institutional walls and gives learners recognition for their achievements.
+
+
+
+Copyright 4 Educators has <a title="OER week" href="https://p2pu.org/en/courses/3040/content/6756/" target="_blank">one week dedicated to OER</a> and Creative Commons licences. This course is run online, twice a year with an intake of approximately 60 learners. The course is unbelievably popular. Enrolments for the course usually fills within 48 hours and has, on average, a wait list of 70 people! The average retention rate for the seven-week course is 87% over the past two years. The NCU is looking to run an entire course dedicated to OER in the future.
+
+
+
+<b>Why Open Education Resources are good for Australian schools, teachers and students</b>
+
+
+
+In Australia, the current collective copyright licence schemes and free-use exceptions for educational uses by teachers and schools are expensive, restrictive and complicated.  Educators’ valuable time is spent trying to understand complex copyright rules and seeking permission to use educational resources.
+
+
+
+Australian schools pay over $665 million to purchase educational resources each year. These resources cannot be modified, shared or remixed by teachers and students except in very limited circumstances.
+
+
+
+Another big problem is that many teachers believe that they are allowed to use material from the internet for free in their classes and at their school. This is not the case. Teachers downloading, saving, printing or emailing pages from the internet will attract fees payable under the education statutory licence for schools. Generally the only material that is free for teachers and schools to use from the internet is online material that is licensed under Creative Commons.
+
+
+
+Currently, Australian schools pay approximately $90 million a year to copyright collecting societies. On the other hand, OER can provide the following benefits:
+
+<ul>
+
+	<li><b>Safer</b>: It is much safer for teachers to use OERs, as they are free to reuse, remix, redistribute and adapt without running the risk of breaching the complex copyright exceptions and copyright licence rules.</li>
+
+	<li><b>Internet compatible</b>: It is better adapted to the internet and the freedom that provides to copy, distribute, adapt and remix resources.</li>
+
+	<li><b>Enabler</b>: Resources that are free to access are not necessarily free to reuse, remix or adapt. There are many online sources of information that can be freely accessed but often the right to adapt or remix is reserved to the copyright owner. Embedding third-party content in educational resources also prevents that content from being shared and copied without permission of the copyright owner. OER enables educators to reuse, remix and adapt resources, since the copyright owner has already given permission to everyone.</li>
+
+	<li><b>Accessible</b>: It is easy to access openly licensed materials, with over 800 million CC-licensed works and many searchable online databases of CC-licensed work available.</li>
+
+	<li><b>Collaborative</b>: It encourages collaboration between educators and creates communities based on the sharing of educational resources, which can increase the quality of materials and the development of ideas.</li>
+
+	<li><b>Cheaper</b>: It helps to save money on national copyright fees and the administrative costs of seeking permission, and allows educational resources to be shared freely online with very low transaction costs.</li>
+
+	<li><b>Equitable</b>: It offers equal access to knowledge for everyone and allows for educational resources to be adapted for minorities and those with disabilities.</li>
+
+</ul>
+
+<b>Schools using Creative Commons</b>
+
+
+
+OER is also being adopted at the local, school level. Teachers and students are increasingly using OER to eliminate copyright concerns and bypass the complex copyright rules. OER allows for significantly more engagement with materials than the Australian educational copyright licences and exceptions allow, and enables educators to fully use, adapt and share resources with their school community and the world at large.
+
+
+
+For all the above reasons, OER is best suited for the modern-day classroom. And, due to this, it is being picked up daily by different schools, teachers and students.
+
+
+
+One such school, <a title="Carina State School" href="https://carinass.eq.edu.au/Pages/default.aspx" target="_blank">Carina State School</a>, a primary school in Brisbane, Queensland, recently held its first carnival in 16 years, and it also set a new standard for Australian schools by <a title="Carina school CC" href="http://www.smartcopying.edu.au/open-education/creative-commons/carina-state-school-a-creative-commons-community" target="_blank">being an exemplar</a> Creative Commons Community.
+
+
+
+<a href="/wp-content/uploads/2015/07/Carina1.jpg"><img class="size-full wp-image-562" src="/wp-content/uploads/2015/07/Carina1.jpg" alt="Carina State School Carnival Art Gallery, 20 June 2015. Photo by Baden Appleyard. CC BY-NC" width="210" height="117"></a> Carina State School Carnival Art Gallery, 20 June 2015. Photo by Baden Appleyard. CC BY-NC
+
+
+
+The school held an amazing School Carnival Art Gallery in which Creative Commons licences were applied to all of the student works. Creative Commons music was played in the gallery, which avoided any additional costs or copyright concerns, and the school has plans to use Creative Commons licences in future activities.
+
+
+
+<a href="/wp-content/uploads/2015/07/Carina2.jpg"><img class="size-full wp-image-563" src="/wp-content/uploads/2015/07/Carina2.jpg" alt="Carina State School Carnival Art Gallery, 20 June 2015. Photo by Baden Appleyard. CC BY-NC" width="209" height="117"></a> Carina State School Carnival Art Gallery, 20 June 2015. Photo by Baden Appleyard. CC BY-NC
+
+
+
+The school has taken a proactive approach to copyright by using the Creative Commons licences, and has introduced them to their students in a fun, creative and practical way, in the first event of its kind in Australia!
+
+
+
+<a href="/wp-content/uploads/2015/07/Carina3.jpg"><img class="size-full wp-image-564" src="/wp-content/uploads/2015/07/Carina3.jpg" alt="Carina State School Carnival Art Gallery, 20 June 2015. Photo by Baden Appleyard. CC BY-NC" width="143" height="212"></a> Carina State School Carnival Art Gallery, 20 June 2015. Photo by Baden Appleyard. CC BY-NC
+
+
+
+The take-home message for the school, students, parents and all that attended the Carnival was that Creative Commons licences work! They’re a simple way to overcome copyright concerns and allow for greater dissemination and sharing of artwork, culture and information generally.
+
+
+
+<i>The National Copyright Unit of the Australian Government's Education Council advises and represents Australian schools and TAFEs on copyright issues, negotiates copyright licences for the sector and liaises with education, industry and government on copyright policy issues. The NCU is the Education lead of <a title="CC Australia" href="http://creativecommons.org.au/" target="_blank">CC Australia</a> and manages the ‘Smartcopying’ website -- <a title="SmartCopying" href="http://www.smartcopying.edu.au/" target="_blank">smartcopying.edu.au</a> -- a practical resource on copyright for Australian educators.</i></body></html>

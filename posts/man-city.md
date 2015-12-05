@@ -1,0 +1,5 @@
+<html><body><a href="/wp-content/uploads/2014/06/MA_I116760.jpg"><img class="alignnone size-full wp-image-179" src="/wp-content/uploads/2014/06/MA_I116760.jpg" alt="MA_I116760" width="906" height="768"></a>
+
+<strong>Reference: </strong><a href="http://collections.tepapa.govt.nz/Object/39398" target="_blank">Man from the city</a>, 1971, by Jan Nigro. Purchased 1971. Te Papa (1971-0036-2)
+
+<strong>Copyright:</strong> <a href="https://creativecommons.org/licenses/by-nc-nd/3.0/nz/" target="_blank">Creative Commons BY-NC-ND 3.0 New Zealand licence</a></body></html>

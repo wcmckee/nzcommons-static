@@ -1,0 +1,61 @@
+<html><body><h4><strong>BY MATT MCGREGOR
+
+</strong></h4>
+
+<a href="/wp-content/uploads/2015/03/ROCS-1.jpg"><img class="size-full wp-image-507" src="/wp-content/uploads/2015/03/ROCS-1.jpg" alt="Action from the ROCS Workshop in Queenstown, New Zealand, 25 March 2015. Made available by REANNZ under a Creative Commons CC BY-NC-SA 4.0 licence." width="593" height="391"></a> Action from the ROCS Workshop in Queenstown, New Zealand, 25 March 2015. Made available by REANNZ under a <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank">Creative Commons BY-NC-SA 4.0 licence</a>.
+
+
+
+On the morning of 25 March, I found myself helping Fabiana Kubke and Cameron McLean run a workshop for a hodge-podge of enthusiastic librarians, researchers and infrastructure providers in a conference room in Queenstown, New Zealand.
+
+
+
+The workshop was held in Queenstown as part of the <a href="http://www.eresearch.org.nz/content/eresearch-nz-2015" target="_blank">eResearch NZ 2015 conference</a>, organised by the National e-Science Infrastructure (NeSI), Research and Education Advanced Network New Zealand (REANNZ) and New Zealand Genomics Limited (NZGL). The conference brought together researchers and infrastructure providers to, as the name of the conference suggests, discuss the future of eResearch in Aotearoa.
+
+
+
+We were there to tease out how we might develop open educational resources on Reproducible, Open and Collaborative Science research (i.e. research that ROCS - thanks to Peter Murray-Rust for the splendid acronym-ing. And yes, the allusion to <a href="http://en.wikipedia.org/wiki/Roc_%28mythology%29" target="_blank">the mythical Roc</a> is entirely intentional.). These open resources will be incorporated into a cross-disciplinary 700-level (i.e. postgraduate) course at the University of Auckland, though we are hopeful that the resources could be used for a range of different purposes across the New Zealand tertiary education sector and beyond.
+
+
+
+We had come well prepared. Fabiana and Cameron had held a similar workshop in Auckland in September last year, and had a heap of data from those sessions regarding which skills and tools researchers valued. While at Mozfest in 2014, Fabiana had also worked with the wonderful Kaitlin Thainey (from Mozilla Science Lab) and the equally wonderful Billy Meinke (then at CC International) to help develop a flexible and modular structure.
+
+
+
+There’s a lot to cover. Open research, broadly defined, refers to a research process that effectively ‘bakes in’ openness from the beginning. This ensures that other researchers -- as well as people who aren’t researchers or experts in any given field -- can follow the research process, which makes it easier to collaborate with colleagues and to reproduce the research in other contexts (<a href="http://www.jove.com/blog/2012/05/03/studies-show-only-10-of-published-science-articles-are-reproducible-what-is-happening" target="_blank">which is not always easy</a>).
+
+
+
+The other reason to make research more open is to give access to a range of groups currently almost entirely excluded from research. These include policy makers, advocates, citizen scientists, journalists, teachers and students outside of large research institutions -- as well as the general public, who have often paid for the research in the first place.
+
+
+
+This is a big issue, and copyright and open licensing is only one aspect. As the picture above suggests, there are heaps of skills needed to practise open research; moreover, many of these skills are generally <i>not</i> taught in the existing science education system. How, then, do we teach open research skills, to make open research standard practice across the research sector?
+
+
+
+One of the difficulties is that most established researchers don’t know quite what ‘open research’ looks like, and generally lack the basic knowledge, skills and tools required make their research truly open. This is a problem, because established researchers -- like established teachers, librarians, government officials and Public Leads of Creative Commons -- pass on the norms of research practice on to their students, and thus reproduce the system as they know it.
+
+
+
+The solution devised by Fabiana and team is to start from the middle: i.e, with postgraduate and early-career researchers. Rather than take on the twin challenge of immediately scaling a course to several thousand undergraduates and attempting to change the practices of late-career researchers, the aim is to train the next generation of researchers and lecturers in the ethos and practices of open research.
+
+
+
+So, what did we cover? Rather than lecture at a room of experts, we decided to mine them for their expertise. Employing a delicate mix of table arrangements, peer pressure and sugary incentives, we had the attendees arrange themselves into five groups, and from there Cameron gave them a series of activities so they could share the skills and tools necessary to conduct open research.
+
+
+
+The response was fantastic - so fantastic that I could barely keep up. One of the initial questions - what is missing from our existing modules? - received at least 18 responses, and it seemed like the following question - which skills are most important? - could have had a 75-minute workshop all of its own.
+
+
+
+The workshop ended with a discussion on some of the practicalities of teaching open science, a discussion that sadly had to be cut short at the end of our allotted 75 minutes.
+
+
+
+After the session, Cameron, Fabiana and I met to debrief, and agreed that the skills the open resources would need to address - such as research communication, data management, collaboration, versioning and visualisation - were notably <i>not</i> specific to computer scientists, and, more notably, not even limited to scientists. While there were some technical and domain-specific suggestions (one of my notes reads “optimising in a parallel universe”: how great does that sound?), the groups soon began to focus on skills and capabilities that would be useful to researchers across every discipline.
+
+
+
+Practising what we preach, Cameron has shared <a href="https://github.com/kubke/MozFest2014-OS-Skills-Curriculum/wiki/eResearchNZ-2015-Workshop" target="_blank">all our existing data and resources on Github</a>. My rough notes from the session are <a href="https://etherpad.mozilla.org/6iKGo4Qi1E" target="_blank">on an etherpad here</a>, and will be expanded as we bring the notes from participants together. We (and by we I mean Cameron) also has a pile of written notes from the participants that we’re going to gather together and publish.</body></html>

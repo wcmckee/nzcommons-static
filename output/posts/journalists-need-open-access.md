@@ -1,0 +1,71 @@
+<html><body><h4><strong>BY MATT MCREGOR</strong></h4>
+
+In June of this year, Wellington’s <em>Dominion Post</em> newspaper <a href="http://www.stuff.co.nz/national/health/10200454/Germs-study-points-finger-at-women" target="_blank">featured a curious story </a><a href="http://www.stuff.co.nz/national/health/10200454/Germs-study-points-finger-at-women" target="_blank">on its front page</a>: the prevalence of germs on cellphones.
+
+
+
+The story was based on <a href="%20https://peerj.com/articles/447" target="_blank">a small study</a> conducted by a group of scientists at the University of Oregon. This study was also covered by <a href="http://www.nzherald.co.nz/lifestyle/news/article.cfm?c_id=6&amp;objectid=11281833" target="_blank">The New Zealand Herald</a>.
+
+
+
+According to Peter Griffin, Manager of the <a href="http://www.sciencemediacentre.co.nz/" target="_blank">New Zealand Science Media Centre</a>, this unexpectedly broad coverage is partly explained by its publication in <a href="https://peerj.com/" target="_blank">PeerJ</a>, an online, open access scientific publisher.
+
+
+
+As Peter points out, it is unlikely that the story would have featured on the front page without the newspaper’s journalists having free and open access to the original article.
+
+
+
+“In order for journalists to effectively do their job, it’s essential that they have access to the information they need.”
+
+
+
+“In a high speed news environment, research needs to be made available with no barriers to access to have the best chance of getting coverage. Open access research definitely has an advantage.”
+
+
+
+Peter points out that most journalists don’t have immediate access to published research.
+
+
+
+“Newsrooms today don’t have resources to subscribe to academic databases that would be useful in the process of generating news content. For journalists, this can be extremely frustrating.”
+
+
+
+Peter points out that some academic publishers do offer free access to journalists, though only science journalists generally go through the process of getting approval. Most journalists are not signed up to publisher access schemes, which means they can face at least a twenty four hour delay in getting access from the researcher or publisher.
+
+
+
+With open access publications like PeerJ, journalists can have immediate access, without barriers or delays.
+
+
+
+Open access publication also allows newspapers to provide readers with links to the full-text article. As Peter points out, most journalists are going to want to give the public as much information as possible. Even if the journalist can find a way around publisher paywalls, the same will not be true of the general public.
+
+
+
+Peter notes that, without access, journalists will be forced to rely on press releases -- if they cover research at all -- which is likely to mean that some context and complexity will be missed.
+
+
+
+“If you want research to be covered well,” Peter says, "make it available in a timely fashion, in a format that can be used -- and shared with readers.”
+
+
+
+Peter also points out the importance of scientists writing for a general audience -- and sharing those works under a Creative Commons licence. Peter notes the success of <em><a href="http://theconversation.com/au" target="_blank">The Conversation</a></em>, an Australian online publication that publishes hundreds of opinion pieces by Australian academics.
+
+
+
+Pieces published on <em>The Conversation</em> are made available under a Creative Commons Attribution No Derivatives licence, which means that commercial publications can reprint articles for free, as long as they provide attribution and ask permission before making any changes.
+
+
+
+As a result, New Zealand newspapers have reprinted dozens of articles by Australasian academics on a range of science subjects -- subjects that are otherwise unlikely to have received coverage.
+
+
+
+If New Zealand researchers want broader coverage, they need to publish in open access venues. As Peter concludes, “Open access to New Zealand scientific publications is needed for broader mass media coverage. It should be available quickly, in an accessible form.
+
+
+
+“A lot of great research by New Zealand scientists is never seeing the light of day, because it’s not accessible.”</body></html>

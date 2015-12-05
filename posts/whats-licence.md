@@ -1,0 +1,47 @@
+<html><body><h4><strong>BY MATT MCGREGOR</strong></h4>
+
+<a href="/wp-content/uploads/2014/09/Jursidictiopns.png"><img class="wp-image-350" src="/wp-content/uploads/2014/09/Jursidictiopns.png" alt='Screenshot of Jurisdiction Ports by Timothy Vollmer, from his presentation, "Creative Commons and the Culture of Openness." CC-BY. ' width="580" height="370"></a> Screenshot of Jurisdiction Ports by Timothy Vollmer, from his presentation, "<a href="http://www.slideshare.net/tvol/creative-commons-and-the-culture-of-openness?ref=http://cctoolkits.com/toolkits/basics-of-cc/" target="_blank">Creative Commons and the Culture of Openness</a>." CC-BY.
+
+
+
+In November 2013, Creative Commons released its ‘4.0 licences’, an updated version of the Creative Commons licences that were intended to be both more plain English and more international. In CC-speak, this meant that the licences would not need to be ‘ported’ to specific jurisdictions. Prior the release of 4.0, the process of porting had been a fundamental part of CC’s work, with dozens of countries all over the world re-drafting the licences to meet the quirks of their own individual legal systems.
+
+
+
+The Creative Commons 3.0 licences were ported to New Zealand law in 2007 by Andrew Matangi, a consultant with the law firm Buddle Findlay. Andrew was approached to help draft the  licences after being approached by a colleague and asked if “he wanted to do something for free." The colleague’s father happened to be Brian Opie, the then Executive Director of the Council for the Humanities, who had recognised a growing need for CC licensing across the education, research and heritage sectors.
+
+
+
+Andrew began drafting the New Zealand licences by having a look at the American English language licences. He quickly decided that their approach wasn’t suitable for New Zealand. “They needed to be far more plain English. These licences are very public facing -- much more so than most legal documents. More members of the public than lawyers will be reading them.”
+
+
+
+Rather than start from scratch, Andrew contacted a team in the UK, who had similar reservations about the American licences. “They had already put in a huge amount of work to develop a plain English licence. I leveraged off the UK versions and revised them to meet a few peculiarities of New Zealand law. There are a few Americanisms in the Creative Commons licences, which I tried to get away from, such as references to client and attorney relationships -- that sort of thing. I also tried to avoid some of the repetition that was in the existing licences.”
+
+
+
+Andrew also had to take into account New Zealand-specific legislation, like the Consumer Guarantees Act, which the licenses needed to contract out of. “From there, we went back and forth with the legal team at CCHQ, which was a very easy process. They were welcoming of the move to plain English licences, which is the way more and more legal documents are moving these days.’”
+
+
+
+After the New Zealand licences were launched in 2008, the State Services Commission recommended that they be used by the New Zealand Government; in 2010, Cabinet approved government use of the CC licences with the NZ Government Open Access and Licensing framework (NZGOAL). The fact that the licences were ported to New Zealand law proved to be a key motivation for the Government to take up the licences.
+
+
+
+Another benefit is that they clarify which country’s law will apply, should a case involving CC licensing ever go to court. Under international law, this is not always obvious, especially when a work is reused online -- Andrew gives the example of a New Zealand work that is used by someone in Korea on a website hosted in the United States. The Creative Commons NZ 3.0 licences cut through this complexity, ensuring that it will always be New Zealand law that applies, should the work be shared and reused overseas.
+
+
+
+As Andrew points out, “A big part of contract drafting is ‘no surprises’; it should be clear what everyone’s obligations are and what happens should the contract be breached. With intellectual property, it’s always best to put in black and white what the position is.”
+
+
+
+Creative Commons licences also take into account legal liability, should anything go wrong after someone reuses a work. At a Creative Commons in Schools event in February, Andrew used the example of a CC licensed science experiment that caused injury or damage: under the terms of the 3.0 New Zealand licence, the creator of the experiment would not be liable “on any legal basis...for loss or damage.”
+
+
+
+Since drafting the 3.0 New Zealand licences, Andrew has been contributing to the development of the international 4.0 licences, which were released in November last year. The 4.0 licences follow the lead of the UK, New Zealand and Australian licences by incorporating more plain English language. As Andrew explains, “The licences are much longer, as international licenses have to deal with many more issues. But they are a vast improvement on the very legalistic 3.0 licences.”
+
+
+
+“The 4.0 licences were written with the goal of not being ported to specific jurisdictions. They were trying to get away from references to specific jurisdiction’s laws on the licences, so that intergovernmental organisations like the UN and The World Bank would be comfortable with using them.”</body></html>

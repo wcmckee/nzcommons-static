@@ -1,0 +1,1 @@
+<html><body><a href="/wp-content/uploads/2015/02/Biosecurity-Cover-Large.jpg"><img class="size-medium wp-image-477" src="/wp-content/uploads/2015/02/Biosecurity-Cover-Large-209x300.jpg" alt="Book cover designed for ePress by Penny Thomson. Licensed CC BY-NC" width="209" height="300"></a> Book cover designed for ePress by Penny Thomson. Licensed CC BY-NC</body></html>

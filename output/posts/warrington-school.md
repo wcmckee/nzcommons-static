@@ -1,0 +1,45 @@
+<html><body><a href="http://wikieducator.org/Warrington_School" target="_blank">Warrington School</a> is a small primary school in Otago’s <a href="http://en.wikipedia.org/wiki/Blueskin_Bay" target="_blank">Blueskin Bay</a>. With five teachers and around fifty students, Warrington has embraced both open source software and Creative Commons licences.
+
+
+
+Warrington’s principal, Nathan Parker, came to Creative Commons licences through open software like Ubuntu, Linux and Open Office. Wayne Mackintosh, of the <a href="http://wikieducator.org/OERF:Home" target="_blank">Open Education Resources Foundation</a>, noticed what Warrington was doing, and invited Nathan to start sharing teaching resources on <a href="http://wikieducator.org/Main_Page" target="_blank">Wikieducator</a>.
+
+
+
+Hosted by Otago Polytechnic, Wikieducator is a platform for teachers across the world to share, remix and reuse educational materials. Dozens of schools around New Zealand are using the wiki through <a href="http://wikieducator.org/New_Zealand_Schools_OER_Portal" target="_blank">New Zealand’s Open Educational Resources portal</a>.
+
+
+
+However, as Nathan quickly discovered, the school's Board of Trustees held the copyright to all resources produced by Warrington's teachers. "We soon realized," Nathan says, "that we can’t put our resources on the wiki, because we as teachers don’t own it." By sharing their teaching resources on Wikieducator, the teachers of Warrington School were breaking the law.
+
+
+
+In order to prevent copyright violation, the school “needed to formalise the change through a creative commons policy.” As was the case with <a title="Albany Senior High School" href="http://creativecommons.org.nz/2012/07/albany-senior-high-school/" target="_blank">Albany Senior High School</a>, Nathan found that his Board of Trustees was “very happy” to give advance permission for teachers to share their resources. The board saw that “being able to share ideas and allowing other teachers to improve or add to our teaching resources was a smart move for education.”
+
+
+
+Other smart moves include the use of open source software. Instead of using proprietary software packages, provided for a fee by large for-profit companies like Microsoft and Apple, Warrington makes use of free, open source alternatives. As a result, Warrington is one of the few New Zealand schools not to pay copyright fees.
+
+
+
+Nathan hopes that more schools decide to work with openly licensed software and teaching resources. He points to Portugal and <a href="http://www.techweekeurope.co.uk/news/iceland-open-source-public-secto-68719" target="_blank">Iceland</a> as examples of countries using open source software across their education systems, saving their governments millions of dollars in licensing agreements
+
+
+
+Warrington also encourages its students to use Creative Commons licensed material in their projects. Two of Nathan's students are planning to enter <a href="http://www.theoutlookforsomeday.net/" target="_blank">Outlook for Someday</a>, a sustainability themed documentary competition. Nathan pointed them to <a href="http://vimeo.com/tag:creativecommons" target="_blank">Vimeo</a>, where the students came across documentaries with Creative Commons licences. “The students could use the footage in their own film, and give it their own interpretation," Nathan says. “It’s just great.”
+
+
+
+Warrington School also runs its own radio station, <a href="http://wikieducator.org/Blueskin_Bay_FM" target="_blank">Blueskin Bay FM</a>. The station hosts student and community programmes, and plays music with Creative Commons licenses. As Nathan explains, "If we play copyright music, we have to pay licensing fees. Using Creative Commons music, we don’t need to ask permission, and we don’t need to pay, and the radio station just ticks along.”
+
+
+
+After moving to open source software and Creative Commons licensing, Warrington has found a greater awareness of copyright and open licensing in the students, the teachers, and even the wider community.
+
+
+
+“When I look outside at other schools, I think, why aren’t you doing this?”
+
+
+
+[For a more extensive discussion of Warrington School's use of open source software, visit <a href="http://wikieducator.org/Free_Software_at_Warrington_School" target="_blank">the case study at Wikieducator</a>.]</body></html>

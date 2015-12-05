@@ -1,0 +1,51 @@
+<html><body><h4>BY HARRY CHAPMAN</h4>
+
+One thing which I’ve noticed recently is that New Zealand politicians are terrible at using <a href="https://creativecommons.org/about">Creative Commons licences</a> to allow use of their photos. That’s a real shame, and in this post I’ll explore why it’s in politicians’ best interest to upload good quality photos of themselves and their activities using a permissive Creative Commons (CC) licence.
+
+
+
+Politicians spend a whole heap of time engaged in self-promotion — after all, they need to be elected to their job. Hence a big part of a politician’s job is attending events, meeting with members of the public and industry groups, pressure groups etc. At the intersection of this relentless campaigning and the rise of social media is that if you look at politicians’ Twitter or Facebook profiles, they’re always posting pictures of that campaigning online. They want the most people possible to see that they’re working hard, talking to “hard-working New Zealanders”, “Mum and Dad investors”, and “people who just want to get ahead”. They want the maximum number of people looking at evidence of all the good work they’re doing.
+
+
+
+So politicians post an inordinate number of photos and videos on social media, or perhaps Flickr. They also put out nice photos of themselves for use in the media free of charge. But the problem is that the copyright status of all these images is unclear, and most non-media people would be wary of using those photos for most purposes.
+
+
+
+With a few extra clicks, all the content politicians are putting up to promote themselves and their causes could be made much more useful, both to the politician themselves, as well as to society. The easiest way to do that is to simply release all your photos and videos under a permissive Creative Commons licence (CC-BY or CC-BY-SA). That way, the potential of the content is unlocked. For example, someone editing a politician’s Wikipedia page doesn’t have to go out and take a (probably) crappy photo of them, rather they can use a high-quality, flattering photo of the politician and make them look good. Likewise a person putting together a booklet about different politicians’ policies can use a nice photo with a clear conscience. Or someone preserving political campaigns and associated material for posterity can archive content without running into legal barriers. Put simply, put your content on the internet with a CC licence and people will use it to do cool stuff.
+
+
+
+<a href="/wp-content/uploads/2014/11/john-key-vs-david-cunliffe-e1416298738727.jpg"><img class="size-full wp-image-418" src="/wp-content/uploads/2014/11/john-key-vs-david-cunliffe-e1416298738727.jpg" alt="The difference a good photo makes on Wikipedia. Cunliffe’s staff could have uploaded a better photo – instead we have him looking sideways (text CC-BY-SA, photos PD)" width="500" height="443"></a> The difference a good photo makes on Wikipedia. Cunliffe’s staff could have uploaded a better photo – instead we have him looking sideways (text CC-BY-SA, photos PD)
+
+
+
+I can’t think of any reasons why politicians shouldn’t embrace Creative Commons licences: they can only win if they put nice photos of themselves onto the internet for people to view, use, and redistribute. (Perhaps politicians and their staff are worried what will happen if they post CC-licenced photos or video and then someone comes along and makes a parody of them. But in all likelihood the parody artist would have just used copyrighted material if the freely-licenced stuff wasn’t available, and the presence of your photos might just encourage this potential parody artist to use a more flattering picture of the politician!)
+
+
+
+In light of all the positives, and the lack of downsides, it seems somewhat puzzling to me why more politicians haven’t embraced Creative Commons. I think the main reason probably comes down to a lack of awareness about Creative Commons licences and their potential benefits.
+
+
+
+<a href="/wp-content/uploads/2014/11/Screenshot-181114-212827.png"><img class="size-full wp-image-419" src="/wp-content/uploads/2014/11/Screenshot-181114-212827.png" alt="Without freely licenced photos, you’re invisible on Wikipedia (text CC-BY-SA, Andrew pic PD, Grant and David pics by Charles Chauvel CC-BY)" width="429" height="591"></a> Without freely licenced photos, you’re invisible on Wikipedia (text CC-BY-SA, Andrew pic PD, Grant and David pics by <a href="https://www.flickr.com/photos/charleschauvel/" target="_blank">Charles Chauvel </a>CC-BY)
+
+
+
+I thought I’d do a little digging to see what licence the various parties and politicians are using on their Flickr accounts. Flickr has creative commons licences built right in, so it’s a good way of putting photos on the internet.
+
+<ul>
+
+	<li><a href="https://www.flickr.com/photos/nzlp/">Labour Party</a>: don’t seem to use their account, and all the photos are all rights reserved.</li>
+
+	<li><a href="https://www.flickr.com/photos/charleschauvel/">Charles Chauvel</a>: one of the only (ex) politicians I’ve seen using a permissive CC-BY licence for his photos. Even though he’s left politics in NZ, his photos are still used for stuff (e.g. pictures of Grant Robertson and David Parker on Wikipedia above).</li>
+
+	<li><a href="https://www.flickr.com/photos/nznationalparty/">National Party</a>: active account, licence their photos under the restrictive CC-BY-NC-ND (can use unchanged photos in non-commercial ways with attribution)</li>
+
+	<li>Green Party: don’t have an account</li>
+
+	<li>New Zealand First: don’t have an account</li>
+
+</ul>
+
+<i>Harry Chapman is a politics student from Wellington, New Zealand, currently doing his Masters on the social acceptability of talking about politics on social media. This piece is reposted from his blog, <a href="http://harrychapman.nz/blog/" target="_blank">Howdy Stranger</a>, which has been made available under a <a href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a></i></body></html>

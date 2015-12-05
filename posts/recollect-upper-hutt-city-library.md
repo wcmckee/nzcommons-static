@@ -1,0 +1,65 @@
+<html><body><p>Earlier this year, Upper Hutt City Library launched <a href="http://uhcl.recollect.co.nz/" target="_blank">RECOLLECT</a>, an online repository of materials from its community archive. The announcement made<a href="http://www.stuff.co.nz/dominion-post/news/local-papers/upper-hutt-leader/7825164/Upper-Hutt-heritage-database-makes-history" target="_blank"> the front page of the Upper Hutt Leader</a>, where it was celebrated as “a New Zealand first.”
+
+
+
+The RECOLLECT platform allows users to browse and discuss archival materials. At present, the site has over 15, 000 photos and hundreds of other items freely available to access and download.
+
+
+
+What was not mentioned in the Leader story, however, was perhaps Recollect’s most remarkable feature: nearly all its heritage items—old and new—are made available under a Creative Commons Attribution or Creative Commons Attribution-NonCommercial licence.
+
+
+
+The Upper Hutt Community Archive was created in 1996, to host heritage materials from the local community. Fourteen year on, the Archive has grown into a rich resource for local residents, and includes thousands of photos, newspapers, oral histories and maps.
+
+
+
+Until recently, most of these archival items were largely unknown. Members of the public would have to request copies of heritage materials, and would be charged an administrative fee by the UHCL. As UHCL Archivist Reid Perkins points out, this took up valuable staff time and tended to “put people off using the images.”
+
+
+
+RECOLLECT allows user to download images from UHCL’s rich archive of local heritage items. As Reid points out, “this has been a popular feature. People like the fact that they have easy access to these images, which of course if we were using a traditional All Rights Reserved copyright model we wouldn’t be able to do.”
+
+
+
+Reid came to the RECOLLECT project in May 2012, and says he was “very impressed” with the library’s attitude towards sharing and reuse. “A lot of institutions are quite risk averse. I was very pleased to come here and see that they didn’t seem to have that attitude.”
+
+
+
+In partnership with <a href="http://www.micrographics.co.nz/" target="_blank">New Zealand Micrographic Services Ltd</a>., library staff agreed that the Creative Commons licences fit with the general ethos of the archive. Their remarkable range of openly licensed resources includes collections of The Upper Hutt Leader itself.
+
+
+
+Reid admits that the question of rights has given him some nervous nights, but that most people seem to be willing to allow the public to access and share their local heritage. “There does seem to be a good, positive attitude here.”
+
+
+
+The main feeling seems to be that people are proud of their local history and want it better known. They want people to access their images.”
+
+
+
+Reid points to the collection of photos by <a href="http://www.upperhuttcity.com/page/1079/JacksonWilfredRevelle.boss" target="_blank">Revelle Jackson, a prominent Hutt Valley photographer</a>. Jackson was the official photographer for local events—including A&amp;P shows, birthday parties and weddings—for several decades, and his collection of over 8000 photos is now available for download for distribution and reuse under a Creative Commons Attribution Non-Commercial licence.
+
+
+
+When asked about other libraries following in the footsteps of UHCL, Reid points out that most libraries and archives are caught between two basic mandates: to protect the collections and to provide access. While Reid understands the dilemmas many librarians and archivists face, he says he’s “pleased to be working in a place where it does seem to lean the other way, towards openness.”
+
+
+
+Reid says that he would “definitely encourage other institutions to go down this route.”
+
+
+
+For smaller, regional organisations, open access and open licensing are a good way to encourage the local community to share and reuse heritage materials. “Our issue is getting people to use the stuff. Our issue is access, getting people using our collections. As soon as we are fairly sure that there aren’t any copyright claims, we want to put the work in circulation.”
+
+
+
+As local groups continue to donate materials to the archive, Reid looks forward to growing Recollect. “A lot of material is coming in digital form only. We often digitise the material, and let the donors keep the original. We’re building up a lot of material like that.”
+
+
+
+As the collections grow, so does the range of materials available for sharing and creative reuse. “I’ve been getting donors’ permission to use their material digitally, and this includes Creative Commons licensing. I make a point of telling people, because they might be worried or misunderstand, but no one seems that concerned. They want their images to be out there and available.”
+
+
+
+“I’ve always made an effort to explain the licences to donors, and no one’s been bothered so far, to be honest. So far, everyone’s agreed.”</p></body></html>

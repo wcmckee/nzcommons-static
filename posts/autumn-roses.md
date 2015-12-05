@@ -1,0 +1,1 @@
+<html><body><a href="/wp-content/uploads/2015/03/AutumnRoses.jpg"><img class="size-medium wp-image-503" src="/wp-content/uploads/2015/03/AutumnRoses-232x300.jpg" alt="Autumn Roses, Robert Walrond" width="232" height="300"></a> Autumn Roses, Robert Walrond, 1915. Te Papa (A018180). No known copyright restrictions.</body></html>

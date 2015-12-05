@@ -1,0 +1,127 @@
+<html><body><h4>BY LUCY MONTGOMERY AND CHRISTINA EMERY</h4>
+
+Open Access (OA) has never been hotter. New funding has become available from the <a href="http://www.mellon.org/grants/grants-database/advanced-search/?p=114&amp;amount-low=&amp;amount-high=&amp;year-start=&amp;year-end=&amp;city=&amp;state=&amp;country=&amp;q=&amp;per_page=25">Mellon Foundation</a> (totalling $6 million) for innovative digital humanities projects -- some explicitly for OA, others with OA implicit in the project structure. University <a href="http://www.luminosoa.org/">presses</a> are launching their own OA publishing programmes. In January 2015, Geoffrey Crossick published his much-anticipated <a href="http://www.hefce.ac.uk/media/hefce/content/pubs/indirreports/2015/monographsandopenaccess/2014_monographs.pdf">report to HEFCE</a> on monographs and OA. Mandates for OA publishing are <a href="http://roarmap.eprints.org/">increasing globally</a>. And of course, the <a href="http://collections.knowledgeunlatched.org/downloads/">findings</a> of our own Knowledge Unlatched Pilot project were recently published, highlighting the success with which libraries and publishers can work together to create sustainable routes to OA for scholarly books.
+
+<h6><b>Background</b></h6>
+
+Specialist scholarly books, including monographs, allow researchers to present their work, pose questions and to test and extend areas of theory through long-form writing. In spite of the fact that research communities all over the world value monographs and depend heavily on them as a requirement of tenure and promotion in many disciplines, sales of this kind of book are in free fall, with some estimates suggesting declines of as much as 90% over 20 years (Willinsky 2006). Cash-strapped monograph publishers have found themselves caught in a negative cycle of increasing prices and falling sales, with few resources left to support experimentation, business model innovation or engagement with digital technology and OA.
+
+
+
+In contrast to textbooks, which provide a broad overview of a field and are intended for a student audience, monographs present primary research and original scholarship, and their intended audience is generally other researchers. Having a book-length work published by a recognised scholarly press is understood as an important intellectual achievement (Adema &amp; Ferwerda 2014) and the publication of a monograph serves as evidence of professional competence and is a requirement for tenure and promotion in many disciplines (Crow 2012; Williams et al. 2009).
+
+
+
+In spite of their importance as a textual form through which new knowledge in the Humanities and Social Sciences is developed, certified and communicated among research communities across the globe, very few readers beyond the walls of the university are able to access these kinds of books. Books have been slower than journals to make a shift to digital formats (Adema 2010) and monographs are often available only in hardback. They are generally published in short print runs and their biggest market is university libraries in the United States and Western Europe, which pay between $50 and $250 per copy (Gasson 2004; Steele 2008). There is widespread consensus that sales of monographs are in decline: 20 years ago it was normal for monographs to sell several thousand copies and today, most will sell just a few hundred (Wasserman 1998; Bunz 2014; Williams et al. 2009). At a moment when new technologies should be lowering barriers to access, monographs remain both closed and expensive.
+
+<h6><b>Knowledge Unlatched Pilot</b><strong><strong>
+
+</strong></strong></h6>
+
+Knowledge Unlatched (KU) was established as a not-for-profit company in 2012 with the goal of enabling a more effective monograph ecosystem. During the 2013--14 Knowledge Unlatched Pilot, publishers were invited to offer new titles to library communities on a novel basis: agreeing to make them OA immediately upon publication in return for a Title Fee paid by a consortium of libraries. Libraries from all over the world were invited to join together to share the costs of the Title Fee, securing access not just for their own users, but also for readers everywhere. Because the Title Fee was a fixed amount, the more libraries agreed to take part in the programme, the lower the cost became for each library.
+
+
+
+<a href="/wp-content/uploads/2015/02/Christina-Emery-Photo.jpg"><img class="size-medium wp-image-470" src="/wp-content/uploads/2015/02/Christina-Emery-Photo-289x300.jpg" alt="Christina Emery of Knowledge Unlatched. Copyright Taya Uddin Photography" width="289" height="300"></a> Christina Emery of Knowledge Unlatched. Copyright Taya Uddin Photography
+
+
+
+The KU team set out to enable positive change in a complex publishing ecosystem. We believed that developing coordinating infrastructure that built on the global nature of scholarly communication and the network effects of OA could help markets for specialist scholarly books to function more effectively. Creating conditions that encourage publishers to incorporate OA into their business models and providing libraries with an opportunity to maximise the positive impact of spending on books were key goals of the project. As such, the KU Proof-of-Concept Pilot deliberately involved monograph stakeholders from across the ecosystem: research funders, authors, publishers, digital intermediaries, libraries and readers all played a role.
+
+
+
+In October 2013 libraries from around the world were invited to pledge a maximum of $1,680 towards securing OA for 28 new Humanities and Social Science research titles from 13 recognised scholarly publishers. If at least 200 libraries agreed to contribute towards the cost of the collection, publishers would be paid a Title Fee in return for making the books available on Creative Commons licences as soon as was practicable once the books had been published (without an embargo). If fewer than 200 libraries joined, the books would still be published, but they would remain closed. The Pilot was an unqualified success: 297 libraries from 24 countries pledged their support for the collection, exceeding the original 200-library target by almost 50%. This reduced the cost for every participating library from $1,680 to $1,195. Libraries paid less than $43 to unlatch each book, compared to an average cover price of $95. Participating publishers received an average Title Fee payment of $12,000 for each of the books, minus any deductions made in recognition of additional copies purchased by libraries. In the collection’s first 24 weeks online, 12,763 downloads from 138 countries were recorded.
+
+
+
+<a href="/wp-content/uploads/2015/02/LucyMontgomery2-940x1253.jpg"><img class="size-medium wp-image-471" src="/wp-content/uploads/2015/02/LucyMontgomery2-940x1253-225x300.jpg" alt="Lucy Montgomery of Curtin University. Licensed CC BY" width="225" height="300"></a> Lucy Montgomery of Curtin University. Licensed CC BY
+
+
+
+The 2013--14 KU Pilot established that authors, librarians, publishers and research funders can work together to support OA for book-length scholarly publications, and that doing so lowers the cost of securing access for libraries and helps publishers to manage the risks associated with publishing monographs. It also demonstrated demand among libraries for cost-effective opportunities to support OA for books, as well as publisher appetite for market-based alternatives to author-side OA publishing fees. Usage data from the Pilot Collection is already providing insight into the truly global impact of the project and the capacity of libraries to enable access for readers located far beyond their own institutions.
+
+
+
+However, the limited scope of the Pilot necessarily left some important issues unresolved. Additional investment will be required to enable the project to be scaled and expanded. More work will need to be done to ensure that KU represents a practical option for librarians struggling to manage complex supply chains and workflows; questions about how KU might be shaped in order to enable diversity in the scholarly book landscape are yet to be addressed; further study is needed in order to explore the issues around multiple format charging; and more work is needed in order to understand how the KU model might fit with the value propositions and workflows of ‘pure OA’ publishers.
+
+<h6><b>The future?</b></h6>
+
+It is becoming increasingly evident that in order to tackle the challenges of scholarly publishing, various business models are needed to overcome these wide-ranging hurdles, meaning that each stakeholder will need to be flexible as different processes run concurrently.
+
+
+
+This makes taking the next steps imperative. Fortunately we can get there in cost-effective and sustainable ways. As <a href="http://blog.hefce.ac.uk/2015/01/22/thinking-about-monographs-in-a-world-of-open-access/">Crossick</a> says, ‘the direction of travel’ to OA is clear. Just how long that journey might be and how many pathways need to be hacked through the jungle may not be known today, but the prize is within sight. Monographs, the foundational works in so many subject areas, have an exciting future as they become ever more widely available to people all around the world through Open Access.
+
+
+
+Indeed, Knowledge Unlatched is seeing the advantages of opening up access to books: there were over 23,000 downloads of the 28 titles in the Pilot Collection in at least 154 countries since mid-March 2014.
+
+
+
+<em>Lucy Montgomery is the Principal Research Fellow at the Center for Culture and Technology at Curtin University in Western Australia. Christina Emery is the Project Coordinator at Knowledge Unlatched in London.</em>
+
+<h6>References</h6>
+
+<div>
+
+
+
+<span lang="EN-AU">Willinsky, J., 2006. <i>The Access Principle: The Case for Open Access to Research and Scholarship</i>, Cambridge, Mass.: MIT Press. Available at: <a href="http://arizona.openrepository.com/arizona/handle/10150/106529" target="_blank">http://arizona.openrepository.<wbr></wbr>com/arizona/handle/10150/<wbr></wbr>106529</a> [Accessed December 6, 2014]</span>
+
+
+
+<span lang="EN-AU">Adema, J. &amp; Ferwerda, E., 2014. Publication Practices in Motion : The Benefits of Open Access Publishing for the Humanities P. Dávidházi, ed. <i>New publication cultures in the humanities : Exploring the Paradigm Shift</i>, pp.133–148. Available at: file:///C:/Users/Ronald/<wbr></wbr>Documents/OA Monographs/Publication Practices in Motion.pdf</span>
+
+
+
+</div>
+
+<div>
+
+
+
+<span lang="EN-AU">Crow, R., 2012. <i>A Rational System for Funding Scholarly Monographs A white paper prepared for the AAU-ARL Task Force on Scholarly Communications</i>, Flint Hill. Available at: <a href="http://bit.ly/1ApmbPF" target="_blank">http://bit.ly/1ApmbPF</a> </span>
+
+
+
+<span lang="EN-AU">Williams, P. et al., 2009. The role and future of the monograph in arts and humanities research. <i>Aslib Proceedings</i>, 61(1), pp.67–82. Available at: <a href="http://www.emeraldinsight.com/doi/abs/10.1108/00012530910932294" target="_blank">http://www.emeraldinsight.com/<wbr></wbr>doi/abs/10.1108/<wbr></wbr>00012530910932294</a> [Accessed November 26, 2014]</span>
+
+
+
+</div>
+
+<div>
+
+
+
+<span lang="EN-AU">Adema, J., 2010. Overview of Open Access Models for eBooks in the Humanities and Social Sciences. , pp.1–73</span>
+
+
+
+Gasson, C., 2004. The Economics of Academic Publishing - Royal Economic Society. <i>Royal Economic Socity Newsletter</i>. Available at: <a href="http://www.res.org.uk/view/art2Apr04Features2.html" target="_blank">http://www.res.org.uk/view/<wbr></wbr>art2Apr04Features2.html</a> [Accessed November 27, 2014]
+
+
+
+<span lang="EN-AU">Steele, C., 2008. Scholarly Monograph Publishing in the 21st Century: The Future More Than Ever Should Be an Open Book. <i>Journal of Electronic Publishing</i>, 11(2). Available at: <a href="http://hdl.handle.net/2027/spo.3336451.0011.201" target="_blank">http://hdl.handle.net/2027/<wbr></wbr>spo.3336451.0011.201</a> [Accessed May 20, 2012]</span>
+
+
+
+<span lang="EN-AU">Wasserman, M., 1998. Reprint: How Much Does It Cost to Publish A Monograph and Why? <i>Journal of Electronic Publishing (JEP)</i>, 4(1). Available at: <a href="http://quod.lib.umich.edu/cgi/t/text/idx/j/jep/3336451.0004.104?rgn=main;view=fulltext" target="_blank">http://quod.lib.umich.edu/cgi/<wbr></wbr>t/text/idx/j/jep/3336451.0004.<wbr></wbr>104?rgn=main;view=fulltext</a> [Accessed April 10, 2013]</span>
+
+
+
+</div>
+
+<div>
+
+
+
+<span lang="EN-AU">Bunz, M., 2014. “The Returned”: on the future of monographic books. <i>Insights: the UKSG journal</i>, 27(0), pp.30–34. Available at: <a href="http://dx.doi.org/10.1629/2048-7754.122" target="_blank">http://dx.doi.org/10.1629/<wbr></wbr>2048-7754.122</a></span>
+
+
+
+<span lang="EN-AU">Williams, P. et al., 2009. The role and future of the monograph in arts and humanities research. <i>Aslib Proceedings</i>, 61(1), pp.67–82. Available at: <a href="http://www.emeraldinsight.com/doi/abs/10.1108/00012530910932294" target="_blank">http://www.emeraldinsight.com/<wbr></wbr>doi/abs/10.1108/<wbr></wbr>00012530910932294</a> [Accessed November 26, 2014]</span>
+
+
+
+</div></body></html>

@@ -1,0 +1,51 @@
+<html><body><h4>BY ANTON ANGELO</h4>
+
+When it's ‘Openly Accessible’, that’s when. The goal of Open Access is to make material legitimately freely available to the end user. Note the careful caveats: “freely”, implying no cost as well as easily findable; and “legitimately”, meaning legally unencumbered.
+
+
+
+A lot of stuff out there on the net is Openly Accessible: you can find it, download it, read it or play it, but not much else. A good example of this is a lot of material on University Institutional Repositories. You may not think you know what they are, but you use them all the time if you do any research. When you search Google Scholar and there is a link to a PDF or txt document that isn’t to the original journal, that’s probably in some kind of repository. If the link is held at a university, it will probably be an institutional repository.
+
+
+
+<a href="/wp-content/uploads/2014/07/8759939806_3413a663c2_z1.jpg"><img class="wp-image-301 size-full" src="/wp-content/uploads/2014/07/8759939806_3413a663c2_z1.jpg" alt="8759939806_3413a663c2_z" width="424" height="268"></a> Reference: Cropped "<a href="http://www.flickr.com/photos/archivesnz/8759939806" target="_blank">Lower Level Three Stacks"</a> by Archives New Zealand. Copyright: <a href="https://creativecommons.org/licenses/by/2.0/" target="_blank">CC-BY</a>
+
+
+
+Institutional Repositories (IRs) hold a lot of stuff, but the best stuff, the stuff no-one else has, are postgraduate theses. <a href="http://ir.canterbury.ac.nz/" target="_blank">At Canterbury's IR </a>we have pretty much all the doctoral theses online, and we are working through Masters and other degree Research Reports.
+
+
+
+There is gold in there. The oldest is a 1914 work on <a href="http://ir.canterbury.ac.nz/handle/10092/3979" target="_blank">the outrageous land prices in Canterbury</a> (<em>plus ça change</em>). I know that some have been downloaded many thousands of times, and I have had emails of appreciation for making work available from as far away as a Nepalese ostrich farmer.
+
+
+
+There are about 5,500 theses, and I put about a dozen up every week - both new theses and newly scanned older ones. As well as being a great research topic in themselves, the data in these works is invaluable. They contain geological maps, bibliographies, raw data sets -- every conceivable kind of information.
+
+
+
+So, what can you do with them once you have read them? Almost nothing. You can quote bits of them, as long as you attribute the author. Can you print out one of the maps and put it on your wall? No. Can you re-use the data tables? Maybe, but you would best to ask the author of the thesis, if you can find them.
+
+
+
+The reason for this is that all the theses have been uploaded with an “All Rights Reserved” licence, which, at the time the repository was founded, was not a bad choice. I’m working to get at least a choice of licences available for new theses, and I have a lot of support from my organisation to do so. But the people who really need to use the licences are the owners of the work -- the students writing their theses.
+
+
+
+It's not as easy as it sounds - in a lot, if not a majority of cases, this is the first work a student has made publicly available. Previously, when students wrote an assignment, it went to an assessor, and that was it. Now, they are being asked to put their name to something that is going to be available all over the world, and they are quite justifiably shy.
+
+
+
+We offer the option to hold back making the thesis public (an ‘embargo’) for a variety of legitimate reasons. Recently the rates of embargoes has shot up. (Is that coincidental with the issues of privacy being made more accessible through platforms like Facebook? Maybe. There is probably a thesis topic in that, just in itself).
+
+
+
+Theses are Openly Accessible, but not, in our case, or the case of the majority of universities around the world, “Open Access”. We can access the work, but we can’t do anything with it, other than quote it. It may seem like splitting legal hairs, but it will become an important distinction if we decide to start mining this fantastic resource for information.
+
+
+
+Often this work is the best stuff thesis writers will ever do, and it deserves respect. The best way we can respect it is to make it as available for reuse as possible, and get all the value we can out it.
+
+
+
+<em><a href="http://www.mojo.org/" target="_blank">Anton Angelo</a> is the Research Data Coordinator at the University of Canterbury</em></body></html>

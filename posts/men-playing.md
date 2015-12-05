@@ -1,0 +1,1 @@
+<html><body><a href="/wp-content/uploads/2015/08/E070629.jpg"><img class="wp-image-597 size-full" src="/wp-content/uploads/2015/08/E070629.jpg" alt="Royal 10 E.IV, f.95 (det)" width="1000" height="1000"></a> "Men Playing" from the British Library. Public domain. http://www.bl.uk/catalogues/illuminatedmanuscripts/ILLUMINBig.ASP?size=big&amp;IllID=40436&amp;</body></html>

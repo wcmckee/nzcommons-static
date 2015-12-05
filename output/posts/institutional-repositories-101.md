@@ -1,0 +1,99 @@
+<html><body><h4>BY AMANDA CURNOW</h4>
+
+This is a very basic introductory post on institutional repositories and how they facilitate Open Access (OA).
+
+<h4>What is an institutional repository?</h4>
+
+An institutional repository (IR) is basically an online collection of an institution’s research. It may contain theses, articles, conference papers, creative works, grey literature and more. Wikipedia defines an institutional repository as “<span lang="en">an online archive for collecting, preserving, and disseminating digital copies of the intellectual output of an institution, particularly a research institution” (</span><span lang="en">Institutional repository,</span><span lang="en"> 2014).</span>
+
+<h4>Why they were set up?</h4>
+
+Institutional repositories were created in response to exorbitant increases in journal subscription charges -- often called the “Serials Crisis” (Serials Crisis, 2014). According to White and Creaser (2007), between 2000 and 2006 the median journal subscription price increased between 42% and 104%.
+
+
+
+As one letter to The Guardian noted, “Scholarly publishing is the only industry that gets its raw materials free of charge and then sells them (highly priced) back to the institutions that provide them” (Open access plan is no academic spring, 2012). Institutional repositories are also a response to the dissatisfaction among scholars for the time delays in circulating the results of research via traditional publishing methods (Cullen &amp; Chawner, 2011).
+
+<h4>What they do?</h4>
+
+The goal of an IR is to create greater discoverability of, and access to, the intellectual product in a single portal, ultimately increasing the impact of the research. It also has the flow-on effect of raising the profile of individual researchers and the university/research institution itself. Institutional repositories typically provide access to the full text of research outputs, without the need for expensive subscriptions to journals.
+
+
+
+The best repositories conform to the Open Archives Initiative Protocol for Metadata Harvesting (OAI-PMH), allowing them to be indexed by search engines such as Google and other aggregators, like OCLC’s OAIster and Bielefeld Academic Search Engine (BASE) so that the content can be easily discovered (Suber, 2012).
+
+<h4>How they can help facilitate Open Access?</h4>
+
+Institutional repositories can help facilitate Open Access by providing free online access to the full text of a research output for anyone with an internet connection, whether it is an article, conference paper or other work.
+
+
+
+For an article or conference paper, the full text may be one of several different versions produced during the lifecycle of the scholarly process: a submitted manuscript, which is the author’s draft; an accepted version, which is an amended, peer-reviewed version; or the publisher’s version, which is the accepted version fully formatted. (For more information on article versions see the <a href="http://www.library.aut.ac.nz/?a=124795">New Zealand Version Toolkit</a>.)
+
+
+
+This form of open access is called ‘green’ open access and occurs when the author self-archives the output. As Peter Suber puts it, "the OA movement uses the term […] green OA for OA delivered by repositories. Self-archiving is the practice of depositing one’s own work in an OA repository. All three of these terms were coined by Stevan Harnad” (Suber, 2012, p. 53).
+
+
+
+Self-archiving is a passive act of making research outputs available after the research has been traditionally published; it complements the traditional publishing system. In order to ensure copyright is not infringed, the <a href="http://www.sherpa.ac.uk/romeo/">Sherpa/Romeo</a> website can be used to identify many journal publishers’ copyright policies. The policies state which version may be deposited and under what conditions. Typical conditions include a set statement, embargo period and link to publisher’s version or website.
+
+
+
+The <a href="http://roar.eprints.org/">Registry of Open Access Repositories (ROAR)</a> provides information about OA repositories globally. There is also a graphical map representation of OA repositories at <a href="http://maps.repository66.org/">Repository66</a>.
+
+<h4>Institutional Repositories in New Zealand</h4>
+
+New Zealand universities followed the example of their international counterparts and set up institutional repositories during the 2000s, as did some polytechnics. Each repository typically includes research outputs from current staff and post-graduate students, as well as recently completed theses.
+
+
+
+Most of the universities have done some sort of retrospective digitisation of doctoral and/or masters theses. However, each institution varies in what is publicly accessible due to copyright restrictions and authorial permissions.
+
+
+
+The content in the eight New Zealand university research repositories is aggregated by <a href="http://nzresearch.org.nz/">NZResearch.org.nz</a>, which is run by the National Library of New Zealand Te Puna Matauranga o Aotearoa. The individual university repositories’ sites can be found at the following links:
+
+<ul>
+
+	<li><a href="http://aut.researchgateway.ac.nz/">AUT Scholarly Commons</a></li>
+
+	<li><a href="http://researcharchive.lincoln.ac.nz/">Lincoln University Research Archive</a></li>
+
+	<li><a href="http://mro.massey.ac.nz">Massey University, Massey Research Online</a></li>
+
+	<li><a href="https://researchspace.auckland.ac.nz/">University of Auckland, ResearchSpace</a></li>
+
+	<li><a href="http://ir.canterbury.ac.nz/">University of Canterbury Research Repository</a></li>
+
+	<li><a href="http://otago.ourarchive.ac.nz/">University of Otago OUR Archive</a></li>
+
+	<li><a href="http://researchcommons.waikato.ac.nz/">University of Waikato Research Commons</a></li>
+
+	<li><a href="http://researcharchive.vuw.ac.nz/">Victoria University of Wellington, ResearchArchive</a></li>
+
+</ul>
+
+<p class="western" style="margin-bottom: 0cm;">These repositories are critical for the dissemination of research by Kiwi researchers about New Zealand. Some are continuing to advance the cause through recently approved mandates to deposit (see Waikato University's <a href="http://www.waikato.ac.nz/open-access/%20" target="_blank">Open Access Policy</a>).</p>
+
+
+
+<h4>References</h4>
+
+<ul>
+
+	<li>Cullen, R., &amp; Chawner, B. (2011). Institutional Repositories, Open Access, and Scholarly Communication: A Study of Conflicting Paradigms. The Journal of Academic Librarianship, 37(6), 460-470</li>
+
+	<li>Institutional repository. (2014). Retrieved from <a href="http://en.wikipedia.org/wiki/Institutional_repository">http://en.wikipedia.org/wiki/Institutional_repository</a></li>
+
+	<li>Serials Crisis. (2014). Retrieved from <a href="http://en.wikipedia.org/wiki/Serials_crisis">http://en.wikipedia.org/wiki/Serials_crisis</a></li>
+
+	<li>Suber, P. (2012). Open Access. MIT Press, Cambridge, MA. Available at <a href="http://mitpress.mit.edu/books/open-access">http://mitpress.mit.edu/books/open-access</a></li>
+
+	<li>White, S. &amp; Creaser, C. (2007). Trends in scholarly journal prices 2000-2006. Retrieved from <a href="http://www.lboro.ac.uk/microsites/infosci/lisu/downloads/op37.pdf">http://www.lboro.ac.uk/microsites/infosci/lisu/downloads/op37.pdf</a></li>
+
+	<li>Open access plan no academic spring. (2012, July 18). The Guardian. Retrieved from: <a href="http://www.theguardian.com/science/2012/jul/18/open-access-plan-no-academic-spring">http://www.theguardian.com/science/2012/jul/18/open-access-plan-no-academic-spring</a></li>
+
+</ul>
+
+<em>Amanda Curnow is the <a href="http://www.massey.ac.nz/massey/expertise/profile.cfm?stref=960040" target="_blank">Web Technologies Librarian</a> at Massey University Library</em></body></html>
