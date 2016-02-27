@@ -1,1 +1,0 @@
-<html><body><a href="/wp-content/uploads/2015/05/McCahonSchoolJournal.jpg"><img class="size-medium wp-image-535" src="/wp-content/uploads/2015/05/McCahonSchoolJournal-300x283.jpg" alt="School Journal illustration, Colin McCahon" width="300" height="283"></a> School Journal illustration, Colin McCahon, 1940s, Archives NZ. Licensed CC BY-NC-ND.</body></html>

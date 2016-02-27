@@ -1,1 +1,0 @@
-<html><body><a href="/wp-content/uploads/2014/11/PegDollPacificPrincess.jpeg"><img class="wp-image-409 size-full" src="/wp-content/uploads/2014/11/PegDollPacificPrincess.jpeg" alt="PegDollPacificPrincess" width="640" height="649"></a> Pacific Princess Peg Doll by Analese Fon, 2011. Te Papa GH017390. Licensed CC BY-NC-ND.</body></html>
